@@ -1,0 +1,3 @@
+graft handbag_scraper
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  handbag_scraper/jupy *
