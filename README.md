@@ -4,9 +4,9 @@
 - Data Source:
 - Type of analysis:
 
-Please document the project the better you can.
+Please document the project the best you can.
 
-# Stratup the project
+# Startup the project
 
 The initial setup.
 
